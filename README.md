@@ -1,3 +1,4 @@
+![MasterHead](desktop-wallpaper-artistic-artsy-computer.jpg)
 <h1 align="center">Hi 👋, I'm Tolgahan Ozdemir</h1>
 <h3 align="center">Computer Engineering</h3>
 

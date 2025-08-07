@@ -19,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tolgahanozdemir7&show_icons=true&locale=en" alt="tolgahanozdemir7" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tolgahanozdemir7&" alt="tolgahanozdemir7" /></p>
+

@@ -1,30 +1,22 @@
+![MasterHead](desktop-wallpaper-artistic-artsy-computer.jpg)
+
 # Tolgahan Özdemir
 *AI Engineer | Deep Learning & LLM Systems*
 
-Welcome. I am a Computer Engineering student (Class of 2026) specializing in the research, development, and deployment of complex AI architectures. My work bridges predictive healthcare algorithms, large language models, and autonomous ecosystems.
+Welcome. I am an AI Engineer with a strong foundation in Computer Engineering, specializing in the research, development, and deployment of complex AI architectures. My work bridges predictive healthcare algorithms, large language models, and autonomous ecosystems.
 
-### 📌 Current Focus & Engineering Work
+### Research & Engineering Focus
+My development philosophy centers on building scalable, interpretable, and production-ready AI models. Rather than just training algorithms, I focus on end-to-end integration and real-world utility. My active areas of interest include:
 
-- **Warfarin Clinical Decision Support System:** Developing a machine-learning backend (FastAPI/Next.js) for medical dosage prediction, heavily utilizing SHAP for model explainability and clinical transparency. *(Graduation Thesis)*
-- **Ludopoly (Ludo Veritas):** Architecting LLM-supported risk analysis engines and data pipelines for a decentralized strategy ecosystem.
-- **TEKNOFEST 2026 R&D:** Architecting high-precision computer vision and AI models for the *Artificial Intelligence in Health* and *Blockchain* competition categories.
+- **Explainable AI (XAI) in Healthcare:** Designing clinical decision support systems where model transparency (e.g., utilizing SHAP) and reliability are just as critical as predictive accuracy.
+- **LLM Integrations & Risk Analysis:** Exploring the use of generative AI and multi-model consensus mechanisms to automate complex data analysis, anomaly detection, and risk scoring pipelines.
+- **Computer Vision & Autonomous Systems:** Developing robust, real-time object detection and segmentation architectures for dynamic environments and edge applications.
 
-### 💻 Technical Repertoire
-*No fluff, just the stack I use to build.*
+### Technical Repertoire
 
-- **Languages:** `Python` `C++` `TypeScript` `JavaScript` `SQL` `Solidity`
-- **AI & Machine Learning:** `PyTorch` `TensorFlow` `LLMs` `OpenCV` `YOLOv8` `U-Net` `SHAP` `Optuna`
-- **Infrastructure & Systems:** `Linux` `Docker` `ROS` `Kafka` `Git` `QEMU`
-- **Databases & Backend:** `PostgreSQL` `Oracle` `MongoDB` `RESTful APIs`
+<a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></a><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a><a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a><a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a><a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a><a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a><a href="https://kubernetes.io" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a><a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a><a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a><a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a><a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
 
-### 🏆 Milestones & Research
-
-- Achieved **87.33 pts** (PPR) in Teknofest 2026 AI in Health.
-- Achieved **86.00 pts** (PER) in Teknofest 2026 Blockchain.
-- Engineered real-time YOLOv8 object detection and lock-on systems for Combat UAVs.
-
-### 📬 Contact
-
+### Contact
 - **Email:** tolgahanozdemir7@gmail.com
-- **Portfolio:** [tolgahanozdemir.com](https://tolgahanozdemir.com)
+- **Portfolio:** [tolgahanozdemir7.github.io](https://tolgahanozdemir7.github.io/tolgahanozdemir46.github.io/)
 - **LinkedIn:** [tolgahan-özdemir-492068252](https://linkedin.com/in/tolgahan-%C3%B6zdemir-492068252)

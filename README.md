@@ -20,3 +20,4 @@ My development philosophy centers on building scalable, interpretable, and produ
 - **Email:** tolgahanozdemir7@gmail.com
 - **Portfolio:** [tolgahanozdemir7.github.io](https://tolgahanozdemir7.github.io/tolgahanozdemir46.github.io/)
 - **LinkedIn:** [tolgahan-özdemir-492068252](https://linkedin.com/in/tolgahan-%C3%B6zdemir-492068252)
+- **Resume / CV:** [View My Resume](https://tolgahanozdemir7.github.io/tolgahanozdemir46.github.io/tolgahan_ozdemir_3.pdf)

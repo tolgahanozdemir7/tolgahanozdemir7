@@ -31,7 +31,7 @@ My development philosophy centers on building scalable, interpretable, and produ
 - **Email:** tolgahanozdemir7@gmail.com
 - **Portfolio:** [tolgahan-ai.vercel.app](https://tolgahan-ai.vercel.app/)
 - **LinkedIn:** [tolgahan-özdemir-492068252](https://linkedin.com/in/tolgahan-%C3%B6zdemir-492068252)
-- **Resume / CV:** [View My Resume](https://tolgahanozdemir7.github.io/tolgahanozdemir46.github.io/tolgahan_ozdemir_4.pdf)
+- **Resume / CV:** [View My Resume](https://tolgahanozdemir7.github.io/tolgahanozdemir46.github.io/tolgahanozdemircv.pdf)
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tolgahanozdemir7&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
